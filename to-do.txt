@@ -1,0 +1,2 @@
+1. Begin writing a post about spectral volumes.
+2. Learn about Latent Diffusion Models.
